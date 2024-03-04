@@ -1,5 +1,8 @@
 node_modules/
 bin/
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
 
 .idea/
 
